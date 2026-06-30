@@ -199,11 +199,8 @@ show crypto session
 
 ## 📎 Recursos
 
-📄 **Documentación Técnica:** [Ver Informe PDF](SaelGerman_2025-0725_VPN-IPSEC-IKEv1-SITE-TO-SITE-BASADA-EN-ENRUTAMIENTO_P2.pdf)  
-▶️ **Video Demostración:** [Ver en YouTube](https://youtu.be/w6oLl94_mWE?si=kFkUeGqf_X_aoZXR)
-## 📎 Recursos
-
-▶️ **Video Demostración:** [Ver en YouTube](https://youtu.be/w6oLl94_mWE?si=kFkUeGqf_X_aoZXR)  
+📄 **Documentación Técnica:** [Ver Informe PDF](SaelGerman_2025-0725_VPN-IPSEC-IKEv1-SITE-TO-SITE-BASADA-EN-E.pdf)  
+▶️ **Video Demostración:** [Ver en YouTube](https://youtu.be/hElXsqso-H0)
 🔗 **VPN Basada en Políticas (relacionada):** [Ver Repositorio](https://github.com/Sael2727/Sael2727-VPN-Cisco-IPSec-IKEv1-Site-to-Site-basada-en-politicas.git)
 
 ---
