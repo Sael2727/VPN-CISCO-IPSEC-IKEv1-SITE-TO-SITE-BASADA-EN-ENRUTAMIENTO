@@ -170,7 +170,7 @@ show crypto session
 | Archivo | Descripción |
 |:-------:|-------------|
 | [`SaelGerman_2025-0725_Script_VPN_IPSec-IKEv1-Site-to-Site-basada-en-enrutamientoP2.txt`](SaelGerman_2025-0725_Script_VPN_IPSec-IKEv1-Site-to-Site-basada-en-enrutamientoP2.txt) | Scripts de configuración Cisco IOS |
-| [`SaelGerman_2025-0725_VPN-IPSEC-IKEv1-SITE-TO-SITE-BASADA-EN-ENRUTAMIENTO_P2.pdf`](SaelGerman_2025-0725_VPN-IPSEC-IKEv1-SITE-TO-SITE-BASADA-EN-ENRUTAMIENTO_P2.pdf) | Documentación técnica completa |
+| [`SaelGerman_2025-0725_VPN-IPSec-IKEv1-Site-to-Site-basada-en-enrutamiento_P2.pdf`](SaelGerman_2025-0725_VPN-IPSec-IKEv1-Site-to-Site-basada-en-enrutamiento_P2.pdf) | Documentación técnica completa |
 
 ---
 
@@ -202,7 +202,7 @@ show crypto session
 
 ## 📎 Recursos
 
-📄 **Documentación Técnica:** [Ver Informe PDF](SaelGerman_2025-0725_VPN-IPSEC-IKEv1-SITE-TO-SITE-BASADA-EN-ENRUTAMIENTO_P2.pdf)  
+📄 **Documentación Técnica:** [Ver Informe PDF](SaelGerman_2025-0725_VPN-IPSec-IKEv1-Site-to-Site-basada-en-enrutamiento_P2.pdf)  
 ▶️ **Video Demostración:** [Ver en YouTube](https://youtu.be/hElXsqso-H0)
 🔗 **VPN Basada en Políticas (relacionada):** [Ver Repositorio](https://github.com/Sael2727/Sael2727-VPN-Cisco-IPSec-IKEv1-Site-to-Site-basada-en-politicas.git)
 
