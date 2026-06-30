@@ -169,8 +169,8 @@ show crypto session
 
 | Archivo | Descripción |
 |:-------:|-------------|
-| [`SaelGerman_2025-0725_Script_GRE_IKEV1.txt`](SaelGerman_2025-0725_Script_VPN_IPSec-IKEv1-Site-to-Site-basada-en-enrutamientoP2) | Scripts de configuración Cisco IOS |
-| [`SaelGerman_2025-0725_VPN-IPSec-IKEv1-Site-to-Site-con-tunel-GRE_P2.pdf`](aelGerman_2025-0725_VPN-IPSEC-IKEv1-SITE-TO-SITE-BASADA-EN-ENRUTAMIENTO_P2.pdf) | Documentación técnica completa |
+| [`SaelGerman_2025-0725_Script_VPN_IPSec-IKEv1-Site-to-Site-basada-en-enrutamientoP2.txt`](SaelGerman_2025-0725_Script_VPN_IPSec-IKEv1-Site-to-Site-basada-en-enrutamientoP2.txt) | Scripts de configuración Cisco IOS |
+| [`SaelGerman_2025-0725_VPN-IPSEC-IKEv1-SITE-TO-SITE-BASADA-EN-ENRUTAMIENTO_P2.pdf`](SaelGerman_2025-0725_VPN-IPSEC-IKEv1-SITE-TO-SITE-BASADA-EN-ENRUTAMIENTO_P2.pdf) | Documentación técnica completa |
 
 ---
 
